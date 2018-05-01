@@ -1,3 +1,6 @@
+# This implementation comes from the book Introduction to Algorithms, 3rd ed
+# by Cormen, Leiserson, Rivest, and Stein.
+
 
 class BinarySearchTree(object):
     """This tree satisfies the binary search tree property:
